@@ -1,21 +1,20 @@
-<img align="center" src="https://github.com/Foysal-Munsy/Foysal-Munsy/blob/main/banner.png"/></a>
+<!--*<img align="center" src="https://github.com/Foysal-Munsy/Foysal-Munsy/blob/main/banner.png"/></a>*-->
 <h1 align="center">Hi there, I'm Foysal Munsy👋</h1>
-<h3 align="center">A passionate learner, problem Solver and developer from Bangladesh!!</h3>
+<h3 align="center">A passionate learner, problem solver, and developer from Bangladesh!!</h3>
 
 <br>
 <br>
-- 🥅 2023 Goals: To bring a success in the competitive programming.<br>
+- 🥅 2023 Goals: To achieve my goal in competitive programming.<br>
 - 👀 I am interested in competitive programming.<br>
 - 🌱 Currently, I am doing competitive programming in the online judge and learning a lot from there.<br>
 - 👯 I’m looking to collaborate on Web development and problem-solving.<br>
-- 💬 Ask me about Programming
+- 💬 Ask me about Programming...
 
 
 ### Connect with me:
 
 <p align="left">
 <a href="https://linkedin.com/in/foysal-munsy-769a3b204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="foysal-munsy-769a3b204" height="30" width="40" /></a>
-<a href="https://instagram.com/rubber_0.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rubber_0.1" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/mr_fm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mr_fm" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/foysal613" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="foysal613" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/mr_fm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mr_fm" height="30" width="40" /></a>

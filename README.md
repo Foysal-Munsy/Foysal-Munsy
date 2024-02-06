@@ -4,7 +4,7 @@
 
 <br>
 <br>
-- 🥅 2023 Goals: To achieve one of my goals in competitive programming.<br>
+- 🥅 2023 Goals: To achieve one of my goals in competitive programming.(achieved 2* on CodeChef and 1189 ratings on Codeforces)<br>
 - 🥅 2024 Goals: To play the ICPC Regional final<br>
 - 👀 I am interested in competitive programming.<br>
 - 🌱 Currently, I am doing competitive programming in the online judge and learning a lot from there.<br>

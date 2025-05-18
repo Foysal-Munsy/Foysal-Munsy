@@ -1,6 +1,6 @@
 <!--*<img align="center" src="https://github.com/Foysal-Munsy/Foysal-Munsy/blob/main/banner.png"/></a>*-->
-<h1 align="center">Hi there, I'm Foysal Munsy👋</h1>
-<h3 align="center">A passionate learner, problem solver, and developer from Bangladesh!!</h3>
+<h1 align="center">👨‍💻 FOYSAL MUNSY</h1>
+<div align="center">  </div> <div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6495ED&center=true&vCenter=true&width=435&lines=Passionate+Problem+Solver;Competitive+Programmer;Aspiring+Web+Developer;Lifelong+Learner" alt="Typing SVG" /> </div> <div align="center"> <p><i>Transforming challenges into solutions.</i></p></div>
 
 <br>
 <br>
@@ -64,6 +64,7 @@
 ---
   
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=foysal-munsy&" alt="foysal-munsy" />
+
   
 
 

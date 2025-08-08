@@ -1,6 +1,6 @@
 <!--*<img align="center" src="https://github.com/Foysal-Munsy/Foysal-Munsy/blob/main/banner.png"/></a>*-->
 <h1 align="center">👨‍💻 FOYSAL MUNSY</h1>
-<div align="center">  </div> <div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6495ED&center=true&vCenter=true&width=435&lines=Passionate+Problem+Solver;Competitive+Programmer;Aspiring+Web+Developer;Lifelong+Learner" alt="Typing SVG" /> </div> <div align="center">
+<div align="center">  </div> <div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6495ED&center=true&vCenter=true&width=435&lines=Competitive+Programmer;FullStack+Web+Developer;Passionate+Learner" alt="Typing SVG" /> </div> <div align="center">
 <p><i>Transforming challenges into solutions.</i></p></div>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Foysal-Munsy&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />

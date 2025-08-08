@@ -171,18 +171,17 @@ const foysal = {
 
 # ⚡ GitHub Statistics
 
-<div align="center">
 
-## 📊 Profile Overview
-<img src="https://github-readme-stats.vercel.app/api?username=Foysal-Munsy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Foysal's GitHub Stats" width="495" />
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
 
-## 🔥 Contribution Streak
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=foysal-munsy&" alt="foysal-munsy" width="495" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Foysal-Munsy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Foysal's GitHub Stats" width="330" />
 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=foysal-munsy&theme=tokyonight&hide_border=true" alt="foysal-munsy" width="330" />
 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Foysal-Munsy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=repo1,repo2" alt="Foysal's Most Used Languages" width="330" />
 
-## 🌐 Language Distribution
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Foysal-Munsy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=repo1,repo2" alt="Foysal's Most Used Languages" width="495" />
+</div>
+
 
 ## 📈 Contribution Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Foysal-Munsy&theme=tokyo-night&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true" alt="Foysal's Contribution Graph" width="100%" />

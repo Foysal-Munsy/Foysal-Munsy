@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Foysal Munsy GitHub Banner</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+        }
+        .banner-container {
+            width: 1584px;
+            height: 396px;
+            position: relative;
+            background: linear-gradient(135deg, #0c1222 0%, #1e293b 50%, #0f172a 100%);
+            overflow: hidden;
+        }
+        
+        /* Floating orbs */
+        .orb {
+            position: absolute;
+            border-radius: 50%;
+            opacity: 0.1;
+            filter: blur(8px);
+        }
+        .orb1 {
+            width: 240px;
+            height: 240px;
+            background: linear-gradient(45deg, #06b6d4, #10b981, #3b82f6, #8b5cf6);
+            top: -20px;
+            left: 80px;
+        }
+        .orb2 {
+            width: 160px;
+            height: 160px;
+            background: linear-gradient(45deg, #06b6d4, #10b981, #3b82f6, #8b5cf6);
+            top: 220px;
+            right: 104px;
+        }
+        .orb3 {
+            width: 120px;
+            height: 120px;
+            background: #6495ED;
+            top: 20px;
+            right: 264px;
+        }
+        
+        /* Main content */
+        .content {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            text-align: center;
+            width: 100%;
+        }
+        
+        .name {
+            font-family: Georgia, serif;
+            font-size: 48px;
+            font-weight: 300;
+            color: white;
+            letter-spacing: 3px;
+            margin-bottom: 20px;
+            text-shadow: 0 0 8px rgba(100, 149, 237, 0.4);
+        }
+        
+        .separator {
+            width: 500px;
+            height: 1px;
+            background: linear-gradient(90deg, #06b6d4, #10b981, #3b82f6, #8b5cf6);
+            margin: 20px auto;
+            opacity: 0.6;
+        }
+        
+        .typing-container {
+            margin: 30px 0;
+            height: 60px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        
+        .quote {
+            font-family: Georgia, serif;
+            font-size: 18px;
+            font-weight: 300;
+            font-style: italic;
+            color: #cbd5e1;
+            letter-spacing: 1px;
+            margin-top: 25px;
+        }
+        
+        /* Decorative elements */
+        .accent-left, .accent-right {
+            position: absolute;
+            top: 50%;
+            transform: translateY(-50%);
+        }
+        
+        .accent-left {
+            left: 150px;
+        }
+        
+        .accent-right {
+            right: 150px;
+        }
+        
+        .accent-circle {
+            width: 6px;
+            height: 6px;
+            border-radius: 50%;
+            background: #6495ED;
+            position: relative;
+        }
+        
+        .accent-circle::before {
+            content: '';
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            width: 30px;
+            height: 30px;
+            border: 1px solid #6495ED;
+            border-radius: 50%;
+            opacity: 0.6;
+        }
+        
+        .accent-circle::after {
+            content: '';
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            width: 50px;
+            height: 50px;
+            border: 0.5px solid #4169E1;
+            border-radius: 50%;
+            opacity: 0.4;
+        }
+        
+        /* Code elements */
+        .code-element {
+            position: absolute;
+            font-family: monospace;
+            color: #6495ED;
+            opacity: 0.3;
+        }
+        
+        .code1 { top: 110px; left: 100px; font-size: 20px; }
+        .code2 { top: 250px; right: 134px; font-size: 18px; }
+        .code3 { top: 260px; left: 80px; font-size: 16px; }
+        .code4 { top: 100px; right: 184px; font-size: 16px; }
+        
+        /* Bottom accent */
+        .bottom-accent {
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            width: 100%;
+            height: 26px;
+            background: linear-gradient(90deg, #6495ED, #4169E1, #6495ED);
+            opacity: 0.1;
+        }
+        
+        .bottom-line {
+            position: absolute;
+            bottom: 11px;
+            left: 400px;
+            width: 784px;
+            height: 2px;
+            background: linear-gradient(90deg, #6495ED, #4169E1, #6495ED);
+            opacity: 0.8;
+        }
+        
+        /* Corner elements */
+        .corner {
+            position: absolute;
+            width: 30px;
+            height: 30px;
+            border: 1px solid #6495ED;
+            opacity: 0.2;
+        }
+        
+        .corner-tl { top: 50px; left: 50px; border-right: none; border-bottom: none; }
+        .corner-tr { top: 50px; right: 50px; border-left: none; border-bottom: none; }
+        .corner-bl { bottom: 50px; left: 50px; border-right: none; border-top: none; }
+        .corner-br { bottom: 50px; right: 50px; border-left: none; border-top: none; }
+        
+        /* Responsive scaling */
+        @media (max-width: 1584px) {
+            .banner-container {
+                transform: scale(0.8);
+                transform-origin: center;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="banner-container">
+        <!-- Background orbs -->
+        <div class="orb orb1"></div>
+        <div class="orb orb2"></div>
+        <div class="orb orb3"></div>
+        
+        <!-- Main content -->
+        <div class="content">
+            <div class="name">👨‍💻 FOYSAL MUNSY</div>
+            <div class="separator"></div>
+            
+            <!-- Typing SVG integrated -->
+            <div class="typing-container">
+                <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6495ED&center=true&vCenter=true&width=435&lines=Competitive+Programmer;FullStack+Web+Developer;Passionate+Learner" alt="Typing SVG" />
+            </div>
+            
+            <div class="quote">"Transforming challenges into solutions."</div>
+        </div>
+        
+        <!-- Decorative accents -->
+        <div class="accent-left">
+            <div class="accent-circle"></div>
+        </div>
+        <div class="accent-right">
+            <div class="accent-circle" style="background: #8b5cf6;"></div>
+        </div>
+        
+        <!-- Code elements -->
+        <div class="code-element code1">&lt;/&gt;</div>
+        <div class="code-element code2">{ }</div>
+        <div class="code-element code3">git commit</div>
+        <div class="code-element code4">function()</div>
+        
+        <!-- Bottom accents -->
+        <div class="bottom-accent"></div>
+        <div class="bottom-line"></div>
+        
+        <!-- Corner elements -->
+        <div class="corner corner-tl"></div>
+        <div class="corner corner-tr"></div>
+        <div class="corner corner-bl"></div>
+        <div class="corner corner-br"></div>
+    </div>
+</body>
+</html>

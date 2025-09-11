@@ -7,9 +7,9 @@
 
 <img align="center" src="https://github.com/Foysal-Munsy/Foysal-Munsy/blob/main/github-banner-V2.svg"/></a>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Foysal-Munsy&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Foysal-Munsy?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Foysal-Munsy&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" height="20" />
+  <img src="https://img.shields.io/github/followers/Foysal-Munsy?label=Followers&style=flat&color=blue" alt="GitHub Followers" height="20" />
 </p>   
 
 
@@ -44,132 +44,51 @@ const foysal = {
 ---
 ## 🌐 Connect With Me
 
-<p align="center">
-  <a href="mailto:foysal613@outlook.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/>
-</a>
-
-  <a href="https://linkedin.com/in/foysal-munsy-769a3b204" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-
-</p>
+<p align="left"> <a href="mailto:foysal613@outlook.com" target="_blank"> <img src="https://img.shields.io/badge/Email-0078D4?style=flat&logo=microsoft-outlook&logoColor=white" alt="Email" height="20"/> </a> <a href="https://linkedin.com/in/foysal-munsy-769a3b204" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="20"/> </a> </p>
 
 ---
 
 # 🛠️ Tech Stack
 
 ## 🧠 Competitive Programming
-<div align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-</div>
+<div align="left"> <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C" height="20" /> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" height="20" /> </div>
 
 ## 🎓 Academic Projects & OOP
-<div align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
-</div>
+<div align="left"> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java" height="20" /> <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" alt="C#" height="20" /> <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" alt=".NET" height="20" /> </div>
 
 ## 🔬 Research & Data Science
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-</div>
+<div align="left"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" height="20" /> <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy" height="20" /> <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas" height="20" /> </div>
 
 ## 🌐 Frontend Development
-<div align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-</div>
-<div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</div>
-<div align="center">
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-</div>
+<div align="left"> <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" height="20" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" height="20" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" height="20" /> </div> <div align="left"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" height="20" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" height="20" /> </div> <div align="left"> <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" height="20" /> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap" height="20" /> </div>
 
 ## 🛠️ Backend & Server Technologies
-<div align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-<!-- <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" /> -->
-
-</div>
+<div align="left"> <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" height="20" /> <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express.js" height="20" /> </div>
 
 ## 🔐 Authentication & Cloud Services
-<div align="center">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
-</div>
+<div align="left"> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase" height="20" /> <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white" alt="JWT" height="20" /> </div>
 
 ## 🗄️ Databases
-<div align="center">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-</div>
-<div align="center">
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
-</div>
+<div align="left"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" height="20" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" height="20" /> </div> <div align="left"> <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white" alt="Oracle" height="20" /> </div>
 
 ## ⚙️ Tools & Development Environment
-<div align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</div>
-<div align="center">
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-</div>
+<div align="left"> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" height="20" /> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" height="20" /> </div> <div align="left"> <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code" height="20" /> </div>
 
 ## 🚀 Build Tools & Package Managers
-<div align="center">
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" alt="Webpack" />
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
-</div>
+<div align="left"> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" alt="Vite" height="20" /> <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black" alt="Webpack" height="20" /> <img src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white" alt="npm" height="20" /> </div>
 
 ## ☁️ Deployment & Hosting
-<div align="center">
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-</div>
+<div align="left"> <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel" height="20" /> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" alt="Netlify" height="20" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase" height="20" /> </div>
 
 ---
 
 
 ## 📊 Competitive Programming
 
-<div align="center">
-  <a href="https://codeforces.com/profile/Mr_FM">
-    <img src="https://github.com/Foysal-Munsy/cf-stats/blob/main/output/max_rating.svg" alt="Codeforces Max Rating"/>
-  </a>
-</div>
-
-<div align="center">
-  <img height="230px" src="https://github.com/Foysal-Munsy/cf-stats/blob/main/output/light_card.svg" alt="Codeforces Statistics"/>
-</div>
+<div align="left"> <a href="https://codeforces.com/profile/Mr_FM"> <img src="https://github.com/Foysal-Munsy/cf-stats/blob/main/output/max_rating.svg" alt="Codeforces Max Rating" height="20"/> </a> </div><div align="left"> <img height="180px" src="https://github.com/Foysal-Munsy/cf-stats/blob/main/output/light_card.svg" alt="Codeforces Statistics"/> </div>
 
 ### 🏅 Competitive Programming Profiles
-<p align="center">
-  <a href="https://codeforces.com/profile/mr_fm" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces"/>
-  </a>
-  <a href="https://www.codechef.com/users/mr_fm" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef"/>
-  </a>
-  <a href="https://www.leetcode.com/mr_fm" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode"/>
-  </a>
-  <a href="https://www.hackerrank.com/foysal613" target="_blank">
-    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/>
-  </a>
-</p>
+<p align="left"> <a href="https://codeforces.com/profile/mr_fm" target="_blank"> <img src="https://img.shields.io/badge/Codeforces-445f9d?style=flat&logo=Codeforces&logoColor=white" alt="Codeforces" height="20"/> </a> <a href="https://www.codechef.com/users/mr_fm" target="_blank"> <img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=flat&logo=CodeChef&logoColor=white" alt="CodeChef" height="20"/> </a> <a href="https://www.leetcode.com/mr_fm" target="_blank"> <img src="https://img.shields.io/badge/LeetCode-000000?style=flat&logo=LeetCode&logoColor=#d16c06" alt="LeetCode" height="20"/> </a> <a href="https://www.hackerrank.com/foysal613" target="_blank"> <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&logo=HackerRank&logoColor=white" alt="HackerRank" height="20"/> </a> </p>
 
 ---
 
@@ -177,20 +96,12 @@ const foysal = {
 # ⚡ GitHub Statistics
 
 
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Foysal-Munsy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Foysal's GitHub Stats" width="330" style="height: 200px;" />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=foysal-munsy&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakNum=FFFFFF&sideNums=5BCDEC&currStreakLabel=5BCDEC&sideLabels=FFFFFF&dates=FFFFFF" alt="Foysal's GitHub Streak" width="330" style="height: 205px;" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Foysal-Munsy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=repo1,repo2" alt="Foysal's Most Used Languages" width="330" style="height: 200px;" />
-
-</div>
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;"> <img src="https://github-readme-stats.vercel.app/api?username=Foysal-Munsy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Foysal's GitHub Stats" width="330" style="height: 200px;" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=foysal-munsy&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakNum=FFFFFF&sideNums=5BCDEC&currStreakLabel=5BCDEC&sideLabels=FFFFFF&dates=FFFFFF" alt="Foysal's GitHub Streak" width="330" style="height: 205px;" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Foysal-Munsy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=repo1,repo2" alt="Foysal's Most Used Languages" width="330" style="height: 200px;" /></div>
 
 
 
 ## 📈 Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Foysal-Munsy&theme=tokyo-night&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true" alt="Foysal's Contribution Graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Foysal-Munsy&theme=tokyo-night&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true" alt="Foysal's Contribution Graph" width="100%" /> 
   
 
 

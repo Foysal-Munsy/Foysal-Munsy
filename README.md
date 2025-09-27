@@ -50,35 +50,18 @@ const foysal = {
 
 # 🛠️ Tech Stack
 
-## 🧠 Competitive Programming
-<div align="left"> <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C" height="20" /> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" height="20" /> </div>
-
-## 🎓 Academic Projects & OOP
-<div align="left"> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java" height="20" /> <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" alt="C#" height="20" /> <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" alt=".NET" height="20" /> </div>
-
-## 🔬 Research & Data Science
-<div align="left"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" height="20" /> <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy" height="20" /> <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas" height="20" /> </div>
-
-## 🌐 Frontend Development
-<div align="left"> <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" height="20" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" height="20" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" height="20" /> </div> <div align="left"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" height="20" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" height="20" /> </div> <div align="left"> <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" height="20" /> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap" height="20" /> </div>
-
-## 🛠️ Backend & Server Technologies
-<div align="left"> <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" height="20" /> <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express.js" height="20" /> </div>
-
-## 🔐 Authentication & Cloud Services
-<div align="left"> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase" height="20" /> <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white" alt="JWT" height="20" /> </div>
-
-## 🗄️ Databases
-<div align="left"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" height="20" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" height="20" /> </div> <div align="left"> <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white" alt="Oracle" height="20" /> </div>
-
-## ⚙️ Tools & Development Environment
-<div align="left"> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" height="20" /> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" height="20" /> </div> <div align="left"> <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code" height="20" /> </div>
-
-## 🚀 Build Tools & Package Managers
-<div align="left"> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" alt="Vite" height="20" /> <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black" alt="Webpack" height="20" /> <img src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white" alt="npm" height="20" /> </div>
-
-## ☁️ Deployment & Hosting
-<div align="left"> <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel" height="20" /> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" alt="Netlify" height="20" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase" height="20" /> </div>
+| Category | Technologies |
+|----------|--------------|
+| 🧠 Competitive Programming | <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" height="20" /> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" height="20" /> |
+| 🎓 Academic Projects & OOP | <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" height="20" /> <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" height="20" /> <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" height="20" /> |
+| 🔬 Research & Data Science | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="20" /> <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" height="20" /> <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" height="20" /> |
+| 🌐 Frontend Development | <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" height="20" /> <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" height="20" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" height="20" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" height="20" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" height="20" /> <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" height="20" /> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" height="20" /> |
+| 🛠️ Backend & Server | <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" height="20" /> <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" height="20" /> |
+| 🔐 Auth & Cloud | <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" height="20" /> <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white" height="20" /> |
+| 🗄️ Databases | <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" height="20" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" height="20" /> <img src="https://img.shields.io/badge/MSSQL-0078D4?style=flat&logo=microsoftsqlserver&logoColor=white" height="20" /> |
+| ⚙️ Tools & IDE | <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" height="20" /> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" height="20" /> <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" height="20" /> |
+| 🚀 Build Tools & Package Managers | <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" height="20" /> <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black" height="20" /> <img src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white" height="20" /> |
+| ☁️ Deployment & Hosting | <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" height="20" /> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" height="20" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" height="20" /> |
 
 ---
 

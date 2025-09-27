@@ -79,12 +79,12 @@ const foysal = {
 # ⚡ GitHub Statistics
 
 
-<div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;"> <img src="https://github-readme-stats.vercel.app/api?username=Foysal-Munsy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Foysal's GitHub Stats" width="330" style="height: 200px;" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=foysal-munsy&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakNum=FFFFFF&sideNums=5BCDEC&currStreakLabel=5BCDEC&sideLabels=FFFFFF&dates=FFFFFF" alt="Foysal's GitHub Streak" width="330" style="height: 205px;" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Foysal-Munsy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=repo1,repo2" alt="Foysal's Most Used Languages" width="330" style="height: 200px;" /></div>
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;"> <img src="https://github-readme-stats.vercel.app/api?username=Foysal-Munsy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Foysal's GitHub Stats" width="330" style="height: 200px;" /> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Foysal-Munsy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=repo1,repo2" alt="Foysal's Most Used Languages" width="330" style="height: 200px;" /></div>
 
 
 
-## 📈 Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Foysal-Munsy&theme=tokyo-night&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true" alt="Foysal's Contribution Graph" width="100%" /> 
+
   
 
 

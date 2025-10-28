@@ -65,10 +65,25 @@ const foysal = {
 
 ---
 
+## 🧪 Research & Publication
+
+- **“Robust Multi-Weather Pothole Detection: An Enhanced YOLOv9 Trained on the MWPD Dataset”**  
+  *Results in Engineering (Elsevier), Volume 28, December 2025, Article 107817*  
+  🔗 [Read the paper on ScienceDirect](https://doi.org/10.1016/j.rineng.2025.107817)  
+  📂 [Access the MWPD Dataset on Mendeley Data](https://data.mendeley.com/datasets/s5hx9n2jc3/2)
+
+<p align="left">
+  <img src="https://img.shields.io/badge/YOLOv9-Deep%20Learning-blue?style=flat&logo=tensorflow&logoColor=white" height="20"/>
+  <img src="https://img.shields.io/badge/Computer%20Vision-MWPD%20Dataset-orange?style=flat&logo=opencv&logoColor=white" height="20"/>
+  <img src="https://img.shields.io/badge/Elsevier-Results%20in%20Engineering-red?style=flat&logo=elsevier&logoColor=white" height="20"/>
+</p>
+
+---
 
 ## 📊 Competitive Programming
 
 <div align="left"> <a href="https://codeforces.com/profile/Mr_FM"> <img src="https://github.com/Foysal-Munsy/cf-stats/blob/main/output/max_rating.svg" alt="Codeforces Max Rating" height="20"/> </a> </div><div align="left"> <img height="180px" src="https://github.com/Foysal-Munsy/cf-stats/blob/main/output/light_card.svg" alt="Codeforces Statistics"/> </div>
+
 
 ### 🏅 Competitive Programming Profiles
 <p align="left"> <a href="https://codeforces.com/profile/mr_fm" target="_blank"> <img src="https://img.shields.io/badge/Codeforces-445f9d?style=flat&logo=Codeforces&logoColor=white" alt="Codeforces" height="20"/> </a> <a href="https://www.codechef.com/users/mr_fm" target="_blank"> <img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=flat&logo=CodeChef&logoColor=white" alt="CodeChef" height="20"/> </a> <a href="https://www.leetcode.com/mr_fm" target="_blank"> <img src="https://img.shields.io/badge/LeetCode-000000?style=flat&logo=LeetCode&logoColor=#d16c06" alt="LeetCode" height="20"/> </a> <a href="https://www.hackerrank.com/foysal613" target="_blank"> <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&logo=HackerRank&logoColor=white" alt="HackerRank" height="20"/> </a> </p>

@@ -71,7 +71,7 @@
           fill="url(#fancyAccent)" 
           text-anchor="middle" 
           letter-spacing="8px">
-      WEB DEVELOPER
+      Software Engineer (FullStack)
     </text>
     
     <!-- Elegant tech stack -->
@@ -82,7 +82,12 @@
           fill="#cbd5e1" 
           text-anchor="middle"
           letter-spacing="1px">
-      HTML5, CSS3, Bootstrap, Tailwind, JavaScript, React.js | Node.js, Express.js | MongoDB | Firebase, JWT | C++, Python
+  constructor() {
+    this.quote = "Programming is the art of algorithm design and the craft of debugging errant code.";
+    this.author = "Ellen Ullman";
+  }
+
+
     </text>
   </g>
   

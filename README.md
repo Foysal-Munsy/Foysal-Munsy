@@ -24,7 +24,6 @@
 
 ### 🎯 Current Focus (2025)
 - 🔍 **Primary Goal**: Secure internship/job opportunities
-- 📚 **Learning**: Web development through Programming Hero
 - 💻 **Building**: Full-stack projects and competitive programming skills
 
 ---
@@ -54,7 +53,6 @@ const foysal = {
 |----------|--------------|
 | 🧠 Competitive Programming | <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" height="20" /> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" height="20" /> |
 | 🎓 Academic Projects & OOP | <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" height="20" /> <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" height="20" /> <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" height="20" /> |
-| 🔬 Research & Data Science | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="20" /> <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" height="20" /> <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" height="20" /> |
 | 🌐 Frontend Development | <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" height="20" /> <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" height="20" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" height="20" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" height="20" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" height="20" /> <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" height="20" /> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" height="20" /> |
 | 🛠️ Backend & Server | <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" height="20" /> <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" height="20" /> |
 | 🔐 Auth & Cloud | <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" height="20" /> <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white" height="20" /> |

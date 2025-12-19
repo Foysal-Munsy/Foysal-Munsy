@@ -19,7 +19,7 @@ I am a software engineer and a competitive programmer who aims to control the co
 
 
 
-<br> <br>
+<br> <br> <br>
 
 
 
@@ -33,15 +33,15 @@ participated in more than 100 online programming contests. <a href="https://gith
   
 
 
-- Codeforces: (Mr_FM), **Max Rating: 1206**, Pupil, Solved over 550 problems and participated in over 50 contests.
-- CodeChef: (mr_fm), **Max Rating: 1540**, 2 Star, Solved over 100 problems and participated in over 20 contests.
+- Codeforces: ( [Mr_FM](https://codeforces.com/profile/Mr_FM) ), **Max Rating: 1206**, Pupil, Solved over 550 problems and participated in over 50 contests.
+- CodeChef: ([mr_fm](https://www.codechef.com/users/mr_fm)), **Max Rating: 1540**, 2 Star, Solved over 100 problems and participated in over 20 contests.
 
 [![Codeforces Max Rating](https://github.com/Foysal-Munsy/cf-stats/blob/main/output/max_rating.svg)](https://codeforces.com/profile/Mr_FM)
 [![CodeChef](https://img.shields.io/badge/CodeChef-1540-%23964B00?style=flat&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/mr_fm)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat&logo=LeetCode&logoColor=d16c06)](https://www.leetcode.com/mr_fm)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/foysal613)
 
-
+<br> <br>
 
 <h2 align="left">💻 My Tech:</h2>
 

@@ -56,15 +56,13 @@ I have solved over 1200 problems in data structures and algorithms across variou
 ### 💻 My Tech:
 
 - **Languages :**
-C++, JavaScript, TypeScript, C#, Python
+C++, JavaScript, TypeScript, C#
 
 - **Frontend :**
-React, Nest.js, TailwindCSS, HTML5, CSS3
+React, Next.js, TailwindCSS, HTML5, CSS3
 
 - **Backend :**
 Node.js, Express.js, NestJS, .NET
-
-
 
 - **Databases :**
 MongoDB, PostgreSQL, MySQL, MSSQL

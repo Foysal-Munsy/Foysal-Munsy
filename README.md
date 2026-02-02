@@ -1,6 +1,7 @@
 ## <samp>&gt; Hi there, I'm <a href="#">Foysal Munsy</a>  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="408" height="318" />  
+
 <samp>
 I am a software engineer and a competitive programmer who aims to control the complexity rather than adding to it.
 
@@ -28,12 +29,13 @@ I am a software engineer and a competitive programmer who aims to control the co
 
 <samp>
 
-## 📊 Competitive Programming:
+### 📊 Competitive Programming:
 
 
 
-I have solved over 1200 problems in data structures and algorithms across various platforms and have
-participated in more than 100 online programming contests. <a href="https://github.com/Foysal-Munsy/Rush-Roadmap">RushRoadmap </a> – Practice Repository
+I have solved over 1200 problems in data structures and algorithms across various platforms and have participated in more than 100 online programming contests. 
+
+[RushRoadmap](https://github.com/Foysal-Munsy/Rush-Roadmap) – Practice Repository
 <!-- <img  align="right" alt="Codeforces Statistics" src="https://github.com/Foysal-Munsy/cf-stats/blob/main/output/light_card.svg" width="318" height="318" /> -->
   
 <br>
@@ -51,7 +53,7 @@ participated in more than 100 online programming contests. <a href="https://gith
 
 <samp>
   
-## 💻 My Tech:
+### 💻 My Tech:
 
 - **Languages :**
 C++, JavaScript, TypeScript, C#, Python
@@ -71,7 +73,7 @@ MongoDB, PostgreSQL, MySQL, MSSQL
 
 <samp>
   
-## 🧪 Research & Publication:
+### 🧪 Research & Publication:
 
 - **“Robust Multi-Weather Pothole Detection: An Enhanced YOLOv9 Trained on the MWPD Dataset”**  
   *Results in Engineering (Elsevier), Volume 28, December 2025, Article 107817*  
@@ -82,7 +84,7 @@ MongoDB, PostgreSQL, MySQL, MSSQL
 
 <samp>
   
-## 📈 My GitHub Stats
+### 📈 My GitHub Stats
 
 
 <p>

@@ -1,6 +1,6 @@
 ## <samp>&gt; Hi there, I'm <a href="#">Foysal Munsy</a>  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="408" height="318" /> 
+<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="408" height="318" />  
 <samp>
 I am a software engineer and a competitive programmer who aims to control the complexity rather than adding to it.
 
@@ -34,7 +34,7 @@ I am a software engineer and a competitive programmer who aims to control the co
 
 I have solved over 1200 problems in data structures and algorithms across various platforms and have
 participated in more than 100 online programming contests. <a href="https://github.com/Foysal-Munsy/Rush-Roadmap">RushRoadmap </a> – Practice Repository
-<img  align="right" alt="Codeforces Statistics" src="https://github.com/Foysal-Munsy/cf-stats/blob/main/output/light_card.svg" width="318" height="318" />
+<!-- <img  align="right" alt="Codeforces Statistics" src="https://github.com/Foysal-Munsy/cf-stats/blob/main/output/light_card.svg" width="318" height="318" /> -->
   
 <br>
 
@@ -53,32 +53,19 @@ participated in more than 100 online programming contests. <a href="https://gith
   
 ## 💻 My Tech:
 
-- **Languages**
-![C++](https://img.shields.io/static/v1?&message=C%2B%2B&color=00599C&logo=c%2B%2B&logoColor=FFFFFF&label=)
-![JavaScript](https://img.shields.io/static/v1?&message=JavaScript&color=F7DF1E&logo=javascript&logoColor=000000&label=)
-![TypeScript](https://img.shields.io/static/v1?&message=TypeScript&color=3178C6&logo=typescript&logoColor=FFFFFF&label=)
-![C#](https://img.shields.io/static/v1?&message=C%23&color=239120&logo=c-sharp&logoColor=FFFFFF&label=)
-![Python](https://img.shields.io/static/v1?&message=Python&color=176587&logo=python&logoColor=FFFFFF&label=)
+- **Languages :**
+C++, JavaScript, TypeScript, C#, Python
 
-- **Frontend**
-![React](https://img.shields.io/static/v1?&message=React&color=20232A&logo=react&logoColor=61DAFB&label=)
-![Next.js](https://img.shields.io/static/v1?&message=Next.js&color=000000&logo=next.js&logoColor=FFFFFF&label=)
-![TailwindCSS](https://img.shields.io/static/v1?&message=TailwindCSS&color=38B2AC&logo=tailwind-css&logoColor=FFFFFF&label=)
-![HTML5](https://img.shields.io/static/v1?&message=HTML5&color=E34F26&logo=html5&logoColor=FFFFFF&label=)
-![CSS3](https://img.shields.io/static/v1?&message=CSS3&color=1572B6&logo=css3&logoColor=FFFFFF&label=)
+- **Frontend :**
+React, Nest.js, TailwindCSS, HTML5, CSS3
 
-- **Backend**
-![Node.js](https://img.shields.io/static/v1?&message=Node.js&color=339933&logo=nodedotjs&logoColor=FFFFFF&label=)
-![Express.js](https://img.shields.io/static/v1?&message=Express.js&color=000000&logo=express&logoColor=FFFFFF&label=)
-![NestJS](https://img.shields.io/static/v1?&message=NestJS&color=E0234E&logo=nestjs&logoColor=FFFFFF&label=)
-![.NET](https://img.shields.io/static/v1?&message=.NET&color=512BD4&logo=dotnet&logoColor=FFFFFF&label=)
+- **Backend :**
+Node.js, Express.js, NestJS, .NET
 
 
-- **Databases**
-![MongoDB](https://img.shields.io/static/v1?&message=MongoDB&color=47A248&logo=mongodb&logoColor=FFFFFF&label=)
-![PostgreSQL](https://img.shields.io/static/v1?&message=PostgreSQL&color=6566ba&logo=postgresql&logoColor=FFFFFF&label=)
-![MySQL](https://img.shields.io/static/v1?&message=MySQL&color=4479A1&logo=mysql&logoColor=FFFFFF&label=)
-![MSSQL](https://img.shields.io/static/v1?&message=MSSQL&color=0078D4&logo=microsoftsqlserver&logoColor=FFFFFF&label=)
+
+- **Databases :**
+MongoDB, PostgreSQL, MySQL, MSSQL
 
 </samp> 
 

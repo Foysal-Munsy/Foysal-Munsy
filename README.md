@@ -1,29 +1,34 @@
 ## <samp>&gt; Hi there, I'm <a href="#">Foysal Munsy</a>  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/foysal-munsy)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=Telegram&logoColor=white)](https://t.me/foysal_munsy)
-[![Email Badge](https://img.shields.io/badge/Email-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:foysal613@outlook.com)
-
-
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Gapur.Gapur)
-
+<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="408" height="318" /> 
+<samp>
 I am a software engineer and a competitive programmer who aims to control the complexity rather than adding to it.
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="408" height="318" />
-  
 
-**Talking about Personal Stuffs:**
+</samp>
+
+<samp>
+
+ ### Talking about Personal Stuffs: 
 
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; Currently working on Next.js, NestJs, TypeScript, PostgreSQL
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to help
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: foysal613@outlook.com
 
+</samp>
 
 
-<br> <br> <br>
+<samp>
+  
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/foysal-munsy)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=Telegram&logoColor=white)](https://t.me/foysal_munsy)
+[![Email Badge](https://img.shields.io/badge/Email-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:foysal613@outlook.com)
+
+</samp>
 
 
+<samp>
 
-<h2 align="left">📊 Competitive Programming:</h2>
+## 📊 Competitive Programming:
 
 
 
@@ -42,9 +47,11 @@ participated in more than 100 online programming contests. <a href="https://gith
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat&logo=LeetCode&logoColor=d16c06)](https://www.leetcode.com/mr_fm)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/foysal613)
 
- 
+</samp> 
 
-<h2 align="left">💻 My Tech:</h2>
+<samp>
+  
+## 💻 My Tech:
 
 - **Languages**
 ![C++](https://img.shields.io/static/v1?&message=C%2B%2B&color=00599C&logo=c%2B%2B&logoColor=FFFFFF&label=)
@@ -73,15 +80,22 @@ participated in more than 100 online programming contests. <a href="https://gith
 ![MySQL](https://img.shields.io/static/v1?&message=MySQL&color=4479A1&logo=mysql&logoColor=FFFFFF&label=)
 ![MSSQL](https://img.shields.io/static/v1?&message=MSSQL&color=0078D4&logo=microsoftsqlserver&logoColor=FFFFFF&label=)
 
+</samp> 
 
-<h2 align="left">🧪 Research & Publication:</h2>
+<samp>
+  
+## 🧪 Research & Publication:
 
 - **“Robust Multi-Weather Pothole Detection: An Enhanced YOLOv9 Trained on the MWPD Dataset”**  
   *Results in Engineering (Elsevier), Volume 28, December 2025, Article 107817*  
   🔗 [Read the paper on ScienceDirect](https://doi.org/10.1016/j.rineng.2025.107817)  
   📂 [Access the MWPD Dataset on Mendeley Data](https://data.mendeley.com/datasets/s5hx9n2jc3/2)
 
-<h2 align="left">📈 My GitHub Stats</h2>
+</samp> 
+
+<samp>
+  
+## 📈 My GitHub Stats
 
 
 <p>
@@ -89,5 +103,5 @@ participated in more than 100 online programming contests. <a href="https://gith
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Foysal-Munsy&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
-
+</samp>
 

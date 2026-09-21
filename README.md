@@ -1,94 +1,63 @@
-## <samp>&gt; Hi there, I'm <a href="#">Foysal Munsy</a>  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
+<h1 align="center">
+  <samp>&gt; Hi there, I'm <a href="https://foysal-munsy.github.io">Foysal Munsy</a> 👋</samp>
+</h1>
 
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="408" height="318" />  
-
-<samp>
-I am a software engineer and a competitive programmer who aims to control the complexity rather than adding to it.
-
-</samp>
-
-<samp>
-
- ### Talking about Personal Stuffs: 
-
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; Currently working on Next.js, NestJs, TypeScript, PostgreSQL
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to help
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: foysal613@outlook.com
-
-</samp>
-
-
-<samp>
-  
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/foysal-munsy)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=Telegram&logoColor=white)](https://t.me/foysal_munsy)
-[![Email Badge](https://img.shields.io/badge/Email-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:foysal613@outlook.com)
-
-</samp>
-
-
-<samp>
-
-### 📊 Competitive Programming:
-
-
-
-I have solved over 1200 problems in data structures and algorithms across various platforms and have participated in more than 100 online programming contests. 
-
-[RushRoadmap](https://github.com/Foysal-Munsy/Rush-Roadmap) – Practice Repository
-<!-- <img  align="right" alt="Codeforces Statistics" src="https://github.com/Foysal-Munsy/cf-stats/blob/main/output/light_card.svg" width="318" height="318" /> -->
-  
-<br>
-
-- Codeforces: ( [Mr_FM](https://codeforces.com/profile/Mr_FM) ), **Max Rating: 1206**, Pupil, Solved over 550 problems and participated in over 50 contests.
-- CodeChef: ([mr_fm](https://www.codechef.com/users/mr_fm)), **Max Rating: 1540**, 2 Star, Solved over 100 problems and participated in over 20 contests.
-<br>
-
-[![Codeforces Max Rating](https://github.com/Foysal-Munsy/cf-stats/blob/main/output/max_rating.svg)](https://codeforces.com/profile/Mr_FM)
-[![CodeChef](https://img.shields.io/badge/CodeChef-1540-%23964B00?style=flat&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/mr_fm)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat&logo=LeetCode&logoColor=d16c06)](https://www.leetcode.com/mr_fm)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/foysal613)
-
-</samp> 
-
-<samp>
-  
-### 💻 My Tech:
-
-- **Languages :**
-C++, JavaScript, TypeScript, C#
-
-- **Frontend :**
-React, Next.js, TailwindCSS, HTML5, CSS3
-
-- **Backend :**
-Node.js, Express.js, NestJS, .NET
-
-- **Databases :**
-MongoDB, PostgreSQL, MySQL, MSSQL
-
-</samp> 
-
-<samp>
-  
-### 🧪 Research & Publication:
-
-- **“Robust Multi-Weather Pothole Detection: An Enhanced YOLOv9 Trained on the MWPD Dataset”**  
-  *Results in Engineering (Elsevier), Volume 28, December 2025, Article 107817*  
-  🔗 [Read the paper on ScienceDirect](https://doi.org/10.1016/j.rineng.2025.107817)  
-  📂 [Access the MWPD Dataset on Mendeley Data](https://data.mendeley.com/datasets/s5hx9n2jc3/2)
-
-</samp> 
-
-<samp>
-  
-### 📈 My GitHub Stats
-
-
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Foysal-Munsy&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Foysal-Munsy&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<p align="center">
+  <samp>Software Engineer & Researcher</samp><br>
+  <samp><i>Aiming to control the complexity rather than adding to it.</i></samp>
 </p>
 
+<p align="center">
+  <a href="mailto:foysal613@outlook.com">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=flat&logo=microsoft-outlook&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/foysal-munsy">
+    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://foysal-munsy.github.io">
+    <img src="https://img.shields.io/badge/Website-1a1915?style=flat&logo=googlechrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://scholar.google.com/citations?user=LS9hj1IAAAAJ&hl=en">
+    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white" alt="Google Scholar" />
+  </a>
+</p>
+
+<hr>
+
+### <samp>✦ About Me</samp>
+<samp>
+I am a CSE graduate (major in Software Engineering) working as a Software Engineer to understand industry best practices while researching how AI is transforming Software Engineering (<b>AI4SE</b>). My current interest centers on <b>AI4SE, AI Agents, and LLM reasoning</b>, with a broader interest in AGI.
+<br><br>
+💼 <b>Software Engineer I</b> @ <a href="https://credosis.com/">Credosis</a><br>
+🔬 <b>Research Assistant</b> @ <a href="https://elitelab.ai/">ELITE Research Lab LLC</a>
 </samp>
 
+### <samp>✦ Research & Publications</samp>
+<samp>
+📄 <b>“Robust Multi-Weather Pothole Detection: An Enhanced YOLOv9”</b><br>
+<i>Results in Engineering (Elsevier), Volume 28, December 2025</i><br>
+🔗 <a href="https://doi.org/10.1016/j.rineng.2025.107817">Read the paper on ScienceDirect</a>
+</samp>
+
+### <samp>✦ Competitive Programming</samp>
+<samp>
+I have solved over 1200+ DSA problems and participated in 100+ online contests.
+<br><br>
+🏆 <b>Codeforces:</b> <a href="https://codeforces.com/profile/Mr_FM">Mr_FM</a> (Pupil, Max 1206) | 550+ solved<br>
+🏆 <b>CodeChef:</b> <a href="https://www.codechef.com/users/mr_fm">mr_fm</a> (2★, Max 1540) | 100+ solved
+</samp>
+
+### <samp>✦ Tech Stack</samp>
+<samp>
+<b>Languages:</b> C++, JavaScript, TypeScript, C#, Python<br>
+<b>Frontend:</b> React, Next.js, HTML5, CSS3, TailwindCSS<br>
+<b>Backend:</b> Node.js, Express.js, NestJS, .NET Core<br>
+<b>Databases:</b> PostgreSQL, MongoDB, MySQL, MSSQL
+</samp>
+
+<hr>
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Foysal-Munsy&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Foysal-Munsy&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=6&theme=transparent"/>
+</p>
